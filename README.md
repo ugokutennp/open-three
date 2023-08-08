@@ -1,6 +1,7 @@
 # OpenThree
 DIY Optical See-Through HMD
 ![OpenThree](https://github.com/ugokutennp/OpenThree/blob/main/images/Openthree.jpg)
+![cad](https://github.com/ugokutennp/OpenThree/blob/main/images/cad.jpg)
 OpenThree is an optical see-through AR head-mounted display that can be inexpensively built using commercially available large reflector.
 
 ## Components
