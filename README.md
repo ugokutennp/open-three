@@ -12,7 +12,7 @@ The components required for the build are as follows
 | Display&Display driver | ls060r1sx02 | AliExpress |1|
 | Head strap | unknown | Amazonjp |1|
 | USB breakout board | unknown | Amazonjp |1|
-| Insert nuts | Sonic Lock SL M3×3 | Monotaro |4|
+| Insert nut | Sonic Lock SL M3×3 | Monotaro |4|
 | Bolt(long) | countersunk M3×8 | Monotaro |2|
 | Bolt(short) | countersunk M3×6 | Monotaro |2|
 | Screw(long) | FBP-0206EB | Monotaro |2|
